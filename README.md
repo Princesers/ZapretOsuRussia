@@ -4,12 +4,16 @@
 
 # Для работы
 запускаем программу снизу находим добавить тунель нажимать строго только один раз
+
 ![43434](https://github.com/user-attachments/assets/19cf23e9-9faa-4441-93cd-6c48af9c6665)
-после этого у вас высчетится 
+
+после этого у вас высветится 
 <img width="348" height="152" alt="image" src="https://github.com/user-attachments/assets/9feae79e-dded-4c3f-b88c-5a41a8f4cbca" />
  
 нажимает "ок". и после она нажимает подключится 
+
 ![load](https://github.com/user-attachments/assets/231288b9-336d-4d20-8dfb-4b0c08bc43e5)
+
 всё скачивать карты и просматривать другие сайты стало возможном
 
 # Почему
