@@ -32,7 +32,15 @@
 
 <img width="845" height="679" alt="image" src="https://github.com/user-attachments/assets/a87d9211-ec29-49b4-86fa-77f262713f3e" />
 
+# На всякий случай
 
+если по какой-то причине warp рабочий не будит работать отключите снизу галочку
+
+<img width="701" height="520" alt="image" src="https://github.com/user-attachments/assets/d36e2bed-dcef-4e8b-8acb-dec77278a9d2" />
+
+мои настройки:
+
+<img width="492" height="533" alt="image" src="https://github.com/user-attachments/assets/738b9158-f457-40f3-8550-d38602c0d983" />
 
 # Почему получилось вот так.
 
